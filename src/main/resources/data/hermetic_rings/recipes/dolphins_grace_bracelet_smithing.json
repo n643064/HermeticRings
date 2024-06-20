@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {},
+  "base": {
+    "item": "hermetic_rings:golden_ring"
+  },
+  "addition": {
+    "item": "hermetic_rings:tide_reagent"
+  },
+  "result": {
+    "item": "hermetic_rings:water_breathing_ring",
+    "count": 1
+  }
+}

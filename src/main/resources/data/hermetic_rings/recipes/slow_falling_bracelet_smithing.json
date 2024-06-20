@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "hermetic_rings:binding_agent"
+  },
+  "base": {
+    "item": "hermetic_rings:iron_bracelet"
+  },
+  "addition": {
+    "item": "hermetic_rings:wind_reagent"
+  },
+  "result": {
+    "item": "hermetic_rings:slow_fall_bracelet",
+    "count": 1
+  }
+}

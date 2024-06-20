@@ -7,11 +7,11 @@
   ],
   "key": {
     "A": {
-      "item": "minecraft:gold_ingot"
+      "item": "minecraft:iron_ingot"
     }
   },
   "result": {
-    "item": "hermetic_rings:golden_ring",
+    "item": "hermetic_rings:iron_ring",
     "count": 1
   }
 }

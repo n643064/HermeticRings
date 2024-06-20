@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-    "hermetic_rings:golden_ring"
+    "hermetic_rings:iron_bracelet",
+    "hermetic_rings:golden_bracelet",
+    "hermetic_rings:obsidian_bracelet",
+    "hermetic_rings:slow_falling_bracelet",
+    "hermetic_rings:health_bracelet",
+    "hermetic_rings:dolphins_grace_bracelet"
   ]
 }

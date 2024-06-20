@@ -1,23 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "PDP",
-    "DHD",
-    "PDP"
+    "PFP",
+    "FEF",
+    "PFP"
   ],
   "key": {
-    "H": {
-      "item": "minecraft:heart_of_the_sea"
+    "F": {
+      "item": "minecraft:feather"
     },
-    "D": {
-      "item": "minecraft:diamond"
+    "E": {
+      "item": "minecraft:emerald_block"
     },
     "P": {
-      "item": "minecraft:prismarine_crystals"
+      "item": "minecraft:phantom_membrane"
     }
   },
   "result": {
-    "item": "hermetic_rings:tide_reagent",
+    "item": "hermetic_rings:wind_reagent",
     "count": 1
   }
 }

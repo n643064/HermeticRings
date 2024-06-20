@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "hermetic_rings:item/golden_bracelet"
+    "layer0": "hermetic_rings:item/iron_ring"
   }
 }

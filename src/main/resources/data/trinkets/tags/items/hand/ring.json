@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "hermetic_rings:iron_ring",
+    "hermetic_rings:golden_ring",
+    "hermetic_rings:obsidian_ring",
+    "hermetic_rings:speed_ring",
+    "hermetic_rings:regen_ring",
+    "hermetic_rings:water_breathing_ring"
+  ]
+}

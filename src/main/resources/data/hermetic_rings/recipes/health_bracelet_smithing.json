@@ -1,14 +1,16 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {},
+  "template": {
+    "item": "hermetic_rings:binding_agent"
+  },
   "base": {
-    "item": "hermetic_rings:obsidian_ring"
+    "item": "hermetic_rings:obsidian_bracelet"
   },
   "addition": {
     "item": "hermetic_rings:vigor_reagent"
   },
   "result": {
-    "item": "hermetic_rings:regen_ring",
+    "item": "hermetic_rings:health_bracelet",
     "count": 1
   }
 }

@@ -1,14 +1,16 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {},
+  "template": {
+    "item": "hermetic_rings:binding_agent"
+  },
   "base": {
-    "item": "hermetic_rings:golden_ring"
+    "item": "hermetic_rings:golden_bracelet"
   },
   "addition": {
     "item": "hermetic_rings:tide_reagent"
   },
   "result": {
-    "item": "hermetic_rings:water_breathing_ring",
+    "item": "hermetic_rings:dolphins_grace_bracelet",
     "count": 1
   }
 }

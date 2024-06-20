@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "hermetic_rings:item/tide_reagent"
+    "layer0": "hermetic_rings:item/wind_reagent"
   }
 }

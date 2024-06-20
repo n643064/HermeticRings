@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "result": "hermetic_rings:binding_agent",
+  "experience": 1.4,
+  "cookingtime": 200
+}

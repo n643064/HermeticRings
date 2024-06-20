@@ -1,3 +1,26 @@
 {
-  "item.hermetic_rings.golden_ring": "Golden Ring"
+  "trinkets.slot.offhand.bracelet": "Offhand Bracelet",
+  "trinkets.slot.hand.bracelet": "Main Hand Bracelet",
+
+  "item.hermetic_rings.binding_agent": "Binding Agent",
+  "item.hermetic_rings.tide_reagent": "Tide Reagent",
+  "item.hermetic_rings.vigor_reagent": "Vigor Reagent",
+  "item.hermetic_rings.wind_reagent": "Wind Reagent",
+  "item.hermetic_rings.void_reagent": "Void Reagent",
+
+  "item.hermetic_rings.iron_ring": "Iron Ring",
+  "item.hermetic_rings.golden_ring": "Golden Ring",
+  "item.hermetic_rings.obsidian_ring": "Obsidian Ring",
+
+  "item.hermetic_rings.speed_ring": "Ring Of Speed",
+  "item.hermetic_rings.regen_ring": "Ring Of Regen",
+  "item.hermetic_rings.water_breathing_ring": "Ring Of Water Breathing",
+
+  "item.hermetic_rings.iron_bracelet": "Iron Bracelet",
+  "item.hermetic_rings.golden_bracelet": "Golden Bracelet",
+  "item.hermetic_rings.obsidian_bracelet": "Obsidian Bracelet",
+
+  "item.hermetic_rings.slow_falling_bracelet": "Bracelet Of Slow Falling",
+  "item.hermetic_rings.health_bracelet": "Bracelet Of Health",
+  "item.hermetic_rings.dolphins_grace_bracelet": "Bracelet Of Dolphin's Grace"
 }

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MEM",
+    "SVS",
+    "MEM"
+  ],
+  "key": {
+    "V": {
+      "item": "hermetic_rings:vigor_reagent"
+    },
+    "S": {
+      "item": "minecraft:echo_shard"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "M": {
+      "tag": "minecraft:music_discs"
+    }
+  },
+  "result": {
+    "item": "hermetic_rings:void_reagent",
+    "count": 1
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "hermetic_rings:item/speed_ring"
+    "layer0": "hermetic_rings:item/water_breathing_ring"
   }
 }

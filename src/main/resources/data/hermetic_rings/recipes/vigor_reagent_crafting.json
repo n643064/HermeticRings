@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HGH",
+    "TUM",
+    "RGB"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "U": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "R": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "B": {
+      "item": "minecraft:beef"
+    },
+    "M": {
+      "item": "minecraft:mushroom_stew"
+    }
+  },
+  "result": {
+    "item": "hermetic_rings:vigor_reagent",
+    "count": 1
+  }
+}

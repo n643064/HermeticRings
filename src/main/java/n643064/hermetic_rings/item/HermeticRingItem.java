@@ -1,14 +1,18 @@
-package n643064.hermetic_rings;
+package n643064.hermetic_rings.item;
 
 import dev.emi.trinkets.api.*;
+import net.minecraft.sounds.SoundEvent;
+import net.minecraft.sounds.SoundEvents;
 import net.minecraft.world.effect.MobEffect;
 import net.minecraft.world.effect.MobEffectInstance;
+import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.entity.LivingEntity;
+import net.minecraft.world.item.Equipable;
 import net.minecraft.world.item.ItemStack;
 
 import java.util.Optional;
 
-public class HermeticRingItem extends TrinketItem
+public class HermeticRingItem extends TrinketItem implements Equipable
 {
     private final MobEffect effect;
     public HermeticRingItem(Properties properties, MobEffect effect)
@@ -44,5 +48,17 @@ public class HermeticRingItem extends TrinketItem
         {
             entity.removeEffect(effect);
         }
+    }
+
+    @Override
+    public EquipmentSlot getEquipmentSlot()
+    {
+        return EquipmentSlot.MAINHAND;
+    }
+
+    @Override
+    public SoundEvent getEquipSound()
+    {
+        return SoundEvents.ENCHANTMENT_TABLE_USE;
     }
 }
